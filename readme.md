@@ -4,7 +4,7 @@ O GCB Academy decidiu propor um desafio para o time de desenvolvedores, desenvol
 
 Existem algumas especificidades da forma que esse algoritmo deve formar os grupos, são essas:
 
-- Cada grupo de estudo deve conter no máximo 3 pessoas;
+- Cada grupo de estudo deve conter no máximo e no mínimo 3 pessoas;
 - Em cada grupo, é necessário que existam 2 desenvolvedores Front-end e 1 Back-end;
 - O grupo deve ser formado pelas pessoas que menos participaram de grupos de estudos;
 - O algoritmo deve sortear quantos grupos forem pedidos;
